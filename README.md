@@ -16,7 +16,7 @@ The explosion spritesheet was released into the public domain by [StumpyStrust](
 None
 
 ## Future Development
-None
+Will add a game over screen/lives system
 
 ## Created by
-Nathan Mishler
+Samuel Styer
